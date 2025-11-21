@@ -836,6 +836,15 @@ section {
 .instagram::before { background: #e4405f; }
 .instagram .social-icon { background: rgba(228, 64, 95, 0.1); color: #e4405f; }
 
+.stackoverflow::before { background: #f48024; }
+.stackoverflow .social-icon { background: rgba(244, 128, 36, 0.1); color: #f48024; }
+
+.code360::before { background: #ff6b35; }
+.code360 .social-icon { background: rgba(255, 107, 53, 0.1); color: #ff6b35; }
+
+.propeers::before { background: #4a90e2; }
+.propeers .social-icon { background: rgba(74, 144, 226, 0.1); color: #4a90e2; }
+
 /* Contact CTA */
 .contact-cta {
     background: var(--gradient-primary);
