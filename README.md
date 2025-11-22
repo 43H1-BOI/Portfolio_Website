@@ -1,22 +1,49 @@
-# Portfolio Website
+# Portfolio Website - Abhishek
 
-A modern, clean, and responsive portfolio website showcasing professional work, achievements, and connections.
+A modern, aesthetic, and responsive portfolio website showcasing Android development expertise, competitive programming achievements, and professional connections.
+
+## About
+
+This portfolio belongs to **Abhishek** (TheAbhiOG), an Android Developer specializing in Kotlin and Jetpack Compose. The website presents a comprehensive view of skills, projects, certifications, and achievements across various platforms.
 
 ## Features
 
-- **Home Page**: Hero section with call-to-action buttons, about section, and quick navigation links
-- **Assignments Page**: Academic work and coursework showcase
-- **Certificates & Achievements Page**: Professional certifications and notable achievements
-- **Projects Page**: Portfolio of projects with technology tags and links
-- **Connect Page**: Social media links, coding platform profiles, and contact information
+- **Home Page**: 
+  - Hero section with availability badge and statistics
+  - Comprehensive technology stack organized by categories
+  - Skills showcase with Android, Problem Solving, and Full-Stack Development
+  - Quick navigation links with animated cards
+  - Floating tech icons animation
 
-## Design
+- **Assignments Page**: Academic coursework in DSA, DBMS, Web Development, Networks, ML, and OS
+
+- **Certificates & Achievements Page**: 
+  - Professional certifications (Google Developer, Google Cloud Skills, Credly)
+  - Coding platform achievements (LeetCode, HackerRank, Code360, Stack Overflow)
+  - All links verified and accessible
+
+- **Projects Page**: 
+  - Featured Android projects (Dice Roller, WoofGoogle, My Meal App, Jetpack Compose Notes)
+  - Technology tags for each project
+  - Direct links to GitHub repositories
+
+- **Connect Page**: 
+  - Professional network (LinkedIn, GitHub, Stack Overflow, Google Developer)
+  - Coding platforms (LeetCode, HackerRank, Code360, Propeers)
+  - CTA for project inquiries
+
+## Design Highlights
 
 - Modern purple/indigo gradient theme
-- Clean and sleek user interface
+- Clean and aesthetic user interface
 - Fully responsive (mobile, tablet, desktop)
-- Smooth animations and transitions
-- Interactive elements with hover effects
+- Smooth animations and micro-interactions
+- Floating tech icons around hero image
+- Enhanced visual hierarchy
+- Professional typography and spacing
+- Interactive hover effects throughout
+- SEO-optimized with meta tags
+- Custom favicon
 
 ## Technologies Used
 
@@ -28,42 +55,70 @@ A modern, clean, and responsive portfolio website showcasing professional work, 
 ## Pages Structure
 
 ### Home
-- Hero section with introduction
-- About Me section
-- Skills showcase
+- Hero section with availability badge
+- Statistics showcase (4+ Projects, 6+ Platforms, Verified Google Dev)
+- Comprehensive About Me section
+- Technology stack organized by categories:
+  - Mobile Development (Kotlin, Jetpack Compose, Material Design 3, MVVM, Gradle)
+  - Programming Languages (Java, Python, JavaScript, C/C++)
+  - Web Technologies (React, HTML5, CSS3, Node.js)
+  - Database & Tools (SQL, Git, GitHub, REST APIs)
+- Skills showcase cards
 - Quick links to all sections
 
 ### Assignments
-- Grid layout of academic assignments
-- Categorized by subject area
-- Metadata including year and category
+- Grid layout of 6 academic assignments
+- Categorized by subject area (Core CS, Web Tech, AI/ML)
+- Includes DSA, DBMS, Web Dev, Networks, ML, OS
+- Metadata with year and category tags
 
 ### Certificates & Achievements
-- Professional certificates display
-- Notable achievements section
-- Verification badges
+- Professional certifications with verification badges
+- Google Developer Profile (verified)
+- Google Cloud Skills (verified)
+- Credly Digital Badges
+- Coding platform achievements with direct links
+- All profile links included and accessible
 
 ### Projects
-- Featured project section
-- Project cards with technology tags
-- GitHub and live demo links
+- 4 Featured Android projects
+- Dice Roller Application (Kotlin, Android Studio, Material Design)
+- WoofGoogle (Jetpack Compose, Material 3, LazyColumn)
+- Jetpack Compose Notes (comprehensive learning resource)
+- My Meal App (Retrofit, MVVM, Coil, Material 3)
+- Technology tags for each project
+- GitHub repository links
 
 ### Connect
-- Professional network (LinkedIn, GitHub, Email)
-- Coding platforms (LeetCode, GeeksforGeeks, HackerRank, CodeChef, Coding Ninjas, Codeforces)
-- Social media links
+- Professional network (LinkedIn, GitHub, Stack Overflow, Google Developer, Google Skills, Credly)
+- Coding platforms (LeetCode, HackerRank, Code360, Propeers)
+- Social cards with icons and platform-specific colors
 - Call-to-action for project inquiries
 
-## Customization
+## Profile Information
 
-The website is designed to be easily customizable. Update the following:
+This portfolio showcases:
+- **Name**: Abhishek (TheAbhiOG, 43H1-BOI)
+- **Role**: Android Developer • Competitive Programmer • Tech Enthusiast
+- **Specialization**: Kotlin, Jetpack Compose, Mobile App Development
+- **Platforms**: 
+  - GitHub: [@43H1-BOI](https://github.com/43H1-BOI)
+  - LinkedIn: [@theabhiog](https://www.linkedin.com/in/theabhiog/)
+  - Google Developer: [TheAbhiOG](https://g.dev/TheAbhiOG)
+  - LeetCode: [TheAbhiOG](https://leetcode.com/u/TheAbhiOG/)
+  - HackerRank: [TheAbhiOG](https://www.hackerrank.com/profile/TheAbhiOG)
+  - Code360: [TheAbhiOG](https://www.naukri.com/code360/profile/TheAbhiOG)
 
-1. **Personal Information**: Edit HTML files to add your name, bio, and descriptions
-2. **Social Links**: Update URLs in `connect.html` with your actual profile links
-3. **Projects**: Add your actual projects in `projects.html`
-4. **Images**: Replace placeholder icons with your photos
-5. **Colors**: Modify CSS custom properties in `styles.css` to change the color scheme
-6. **Content**: Update all placeholder content with your actual information
+## Recent Updates (2024)
+
+✨ **Enhanced Design & Information**
+- Added comprehensive technology stack display
+- Improved home page with statistics and availability badge
+- Enhanced certificates page with detailed achievements
+- Added floating tech icons animation
+- Improved mobile responsiveness
+- Added SEO meta tags and favicon
+- Enhanced visual hierarchy and color scheme
 
 ## How to Run
 
