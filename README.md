@@ -4,14 +4,14 @@ A modern, aesthetic, and responsive portfolio website showcasing Android develop
 
 ## About
 
-This portfolio belongs to **Abhishek** (TheAbhiOG), an Android Developer specializing in Kotlin and Jetpack Compose. The website presents a comprehensive view of skills, projects, certifications, and achievements across various platforms.
+This portfolio belongs to **Abhishek** (TheAbhiOG), an Android Developer specializing in **Kotlin** and Jetpack Compose. With expertise in **Python**, Data Structures and Algorithms (DSA), and Database Management Systems (DBMS), the website presents a comprehensive view of skills, projects, certifications, and achievements across various platforms.
 
 ## Features
 
 - **Home Page**: 
   - Hero section with availability badge and statistics
   - Comprehensive technology stack organized by categories
-  - Skills showcase with Android, Problem Solving, and Full-Stack Development
+  - Skills showcase with Android, DSA, DBMS, and Full-Stack Development
   - Quick navigation links with animated cards
   - Floating tech icons animation
 
@@ -60,9 +60,10 @@ This portfolio belongs to **Abhishek** (TheAbhiOG), an Android Developer special
 - Comprehensive About Me section
 - Technology stack organized by categories:
   - Mobile Development (Kotlin, Jetpack Compose, Material Design 3, MVVM, Gradle)
-  - Programming Languages (Java, Python, JavaScript, C/C++)
+  - Programming Languages (Kotlin, Python, Java, JavaScript, C/C++)
   - Web Technologies (React, HTML5, CSS3, Node.js)
   - Database & Tools (SQL, Git, GitHub, REST APIs)
+  - Core Computer Science (Data Structures and Algorithms, DBMS)
 - Skills showcase cards
 - Quick links to all sections
 
@@ -100,7 +101,8 @@ This portfolio belongs to **Abhishek** (TheAbhiOG), an Android Developer special
 This portfolio showcases:
 - **Name**: Abhishek (TheAbhiOG, 43H1-BOI)
 - **Role**: Android Developer • Competitive Programmer • Tech Enthusiast
-- **Specialization**: Kotlin, Jetpack Compose, Mobile App Development
+- **Specialization**: Kotlin, Python, Jetpack Compose, Mobile App Development
+- **Core Skills**: Data Structures and Algorithms, Database Management Systems (DBMS)
 - **Platforms**: 
   - GitHub: [@43H1-BOI](https://github.com/43H1-BOI)
   - LinkedIn: [@theabhiog](https://www.linkedin.com/in/theabhiog/)
