@@ -1600,6 +1600,7 @@ section {
 .video-embed iframe {
     display: block;
     border-radius: 1rem;
+    border: none;
 }
 
 .ds-topics {
